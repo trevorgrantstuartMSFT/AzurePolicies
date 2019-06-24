@@ -4,8 +4,9 @@ Please note, you will need the following in order to follow instructions properl
 
 1. Azure Subscription Access
 2. VS Code for Windows
-3. GIT for Windows
-4. VS Code Extensions:
+3. Microsoft Azure CLI
+4. GIT for Windows
+5. VS Code Extensions:
  - Azure Account
  - Azure CLI Tools
  - Azure Repos
